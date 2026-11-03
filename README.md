@@ -72,7 +72,10 @@ SK broadband. 캠페인 발송이 특정 날짜에 몰려 채널 캐파를 넘�
 
 [열기](https://kellyb1024.github.io/mySUNIC_team12/) · [코드](https://github.com/kellyb1024/mySUNIC_team12)
 
-### 휘서(Hwiseo) — 사진 속 기억을 꺼내는 앱
-AI가 질문을 던져, 사진 속에 묻힌 기억을 꺼내도록 돕는 앱. 캐릭터 휘서가 대화 상대가 됩니다.
+### 휘서(Hwiseo) — 잊힌 사진에 빛을 비추는 AI 친구
+AI 친구 휘서는 잊힌 사진 한 장에 빛을 비추고, 그 순간을 산 사람이 자기 이야기를 다시 펼치도록 묻습니다.
+AI가 묻고 사람이 이야기하는, 생성과는 다른 AI의 쓰임입니다.
+
+<img src="https://raw.githubusercontent.com/kellyb1024/hwiseo/main/docs/images/booth-1.jpg" width="600" alt="휘서 전시 부스">
 
 [열기](https://hwiseo.vercel.app) · [코드](https://github.com/kellyb1024/hwiseo)

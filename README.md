@@ -72,8 +72,7 @@ SK broadband. 캠페인 발송이 특정 날짜에 몰려 채널 캐파를 넘�
 
 [열기](https://kellyb1024.github.io/mySUNIC_team12/) · [코드](https://github.com/kellyb1024/mySUNIC_team12)
 
-### Mailroom Kiosk — 무인 mailroom 택배 수령
-라커가 없어 택배가 쌓이기만 하는 mailroom. 더미를 정리하는 대신 검색 가능하게 만듭니다.
-하나의 단말에 두 모드 — 기사는 입고, 거주자는 수령.
+### 휘서(Hwiseo) — 사진 속 기억을 꺼내는 앱
+AI가 질문을 던져, 사진 속에 묻힌 기억을 꺼내도록 돕는 앱. 캐릭터 휘서가 대화 상대가 됩니다.
 
-[열기](https://kellyb1024.github.io/design-challenge/) · [코드](https://github.com/kellyb1024/design-challenge)
+[열기](https://hwiseo.vercel.app) · [코드](https://github.com/kellyb1024/hwiseo)

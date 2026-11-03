@@ -76,6 +76,6 @@ SK broadband. 캠페인 발송이 특정 날짜에 몰려 채널 캐파를 넘�
 AI 친구 휘서는 잊힌 사진 한 장에 빛을 비추고, 그 순간을 산 사람이 자기 이야기를 다시 펼치도록 묻습니다.
 AI가 묻고 사람이 이야기하는, 생성과는 다른 AI의 쓰임입니다.
 
-<img src="https://raw.githubusercontent.com/kellyb1024/hwiseo/main/docs/images/booth-1.jpg" width="600" alt="휘서 전시 부스">
+<img src="https://raw.githubusercontent.com/kellyb1024/hwiseo/main/docs/images/app-screens.png" width="700" alt="휘서 앱 화면">
 
 [열기](https://hwiseo.vercel.app) · [코드](https://github.com/kellyb1024/hwiseo)
